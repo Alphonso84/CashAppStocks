@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  StockViewController.swift
 //  CashAppStocks
 //
 //  Created by Alphonso Sensley II on 4/21/23.
@@ -7,11 +7,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class StockViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        
     }
 
 
