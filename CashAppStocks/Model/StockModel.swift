@@ -8,10 +8,10 @@
 import Foundation
 
 struct StockData: Codable {
-    let stocks: [Stock]
+    let stocks: [StockModel]
 }
 
-struct Stock: Codable {
+struct StockModel: Codable {
     let ticker: String
     let name: String
     let currency: String

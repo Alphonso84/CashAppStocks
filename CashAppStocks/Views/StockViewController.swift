@@ -14,6 +14,11 @@ class StockViewController: UIViewController {
         
         
     }
+    
+    func setupUI() {
+        
+    }
+    
 
 
 }
